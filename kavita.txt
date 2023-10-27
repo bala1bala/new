@@ -1,4 +1,4 @@
 first line of kavita
 2nd line of kavita
-line br probabality1
+line br
 line 2nd in probabality
